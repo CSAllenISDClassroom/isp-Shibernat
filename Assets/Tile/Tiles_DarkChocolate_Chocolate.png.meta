@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: 80b9e299e4d8e514787b7d18945b1d6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7021753392514587589
+    second: Tiles_DarkChocolate_Chocolate_0
+  - first:
+      213: 8850052372270918330
+    second: Tiles_DarkChocolate_Chocolate_1
+  - first:
+      213: 7482485871888305777
+    second: Tiles_DarkChocolate_Chocolate_2
+  - first:
+      213: -5983509443809886871
+    second: Tiles_DarkChocolate_Chocolate_3
+  - first:
+      213: 8399230056144164176
+    second: Tiles_DarkChocolate_Chocolate_4
+  - first:
+      213: 2394372582699281214
+    second: Tiles_DarkChocolate_Chocolate_5
+  - first:
+      213: 7682555645988837109
+    second: Tiles_DarkChocolate_Chocolate_6
+  - first:
+      213: 4437297218363104172
+    second: Tiles_DarkChocolate_Chocolate_7
+  - first:
+      213: -6664059192845895697
+    second: Tiles_DarkChocolate_Chocolate_8
+  - first:
+      213: -565397064535199052
+    second: Tiles_DarkChocolate_Chocolate_9
+  - first:
+      213: 6861262790618306299
+    second: Tiles_DarkChocolate_Chocolate_10
+  - first:
+      213: -7752929151753355476
+    second: Tiles_DarkChocolate_Chocolate_11
+  - first:
+      213: 8455947833491169862
+    second: Tiles_DarkChocolate_Chocolate_12
+  - first:
+      213: 3510195521226051902
+    second: Tiles_DarkChocolate_Chocolate_13
+  - first:
+      213: 9094692891978631213
+    second: Tiles_DarkChocolate_Chocolate_14
+  - first:
+      213: 3315890576135180601
+    second: Tiles_DarkChocolate_Chocolate_15
+  - first:
+      213: -5317129928696775479
+    second: Tiles_DarkChocolate_Chocolate_16
+  - first:
+      213: 1405448071361443460
+    second: Tiles_DarkChocolate_Chocolate_17
+  - first:
+      213: 829653788547688578
+    second: Tiles_DarkChocolate_Chocolate_18
+  - first:
+      213: 3495995836347206488
+    second: Tiles_DarkChocolate_Chocolate_19
+  - first:
+      213: 4802000855977837658
+    second: Tiles_DarkChocolate_Chocolate_20
+  - first:
+      213: 1115320980307902331
+    second: Tiles_DarkChocolate_Chocolate_21
+  - first:
+      213: -1548644828549500536
+    second: Tiles_DarkChocolate_Chocolate_22
+  - first:
+      213: -8065429970969603792
+    second: Tiles_DarkChocolate_Chocolate_23
+  - first:
+      213: 1279859520354365309
+    second: Tiles_DarkChocolate_Chocolate_24
+  - first:
+      213: -2578010074690148035
+    second: Tiles_DarkChocolate_Chocolate_25
+  - first:
+      213: 7759143244717603177
+    second: Tiles_DarkChocolate_Chocolate_26
+  - first:
+      213: -7158907347287417535
+    second: Tiles_DarkChocolate_Chocolate_27
+  - first:
+      213: 1108787142555291415
+    second: Tiles_DarkChocolate_Chocolate_28
+  - first:
+      213: 8262555702219038693
+    second: Tiles_DarkChocolate_Chocolate_29
+  - first:
+      213: -5825400505630139903
+    second: Tiles_DarkChocolate_Chocolate_30
+  - first:
+      213: 5134935459883647779
+    second: Tiles_DarkChocolate_Chocolate_31
+  - first:
+      213: 4658805384396585667
+    second: Tiles_DarkChocolate_Chocolate_32
+  - first:
+      213: 8377580666076849345
+    second: Tiles_DarkChocolate_Chocolate_33
+  - first:
+      213: 7575118577901485002
+    second: Tiles_DarkChocolate_Chocolate_34
+  - first:
+      213: 5527149641700766885
+    second: Tiles_DarkChocolate_Chocolate_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3426ca0e78bd8e90800000000000000
+      internalID: -7021753392514587589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaafc43eb3b1da70800000000000000
+      internalID: 8850052372270918330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e08cea14127d760800000000000000
+      internalID: 7482485871888305777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d3483ecdd46fca0800000000000000
+      internalID: -5983509443809886871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d14b2c3f009470800000000000000
+      internalID: 8399230056144164176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ba9b39d258a3120800000000000000
+      internalID: 2394372582699281214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61656f7abed9a60800000000000000
+      internalID: 7682555645988837109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab9c5f6f42749d30800000000000000
+      internalID: 4437297218363104172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77e38c8718483a0800000000000000
+      internalID: -6664059192845895697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b45b8d5e4728f0800000000000000
+      internalID: -565397064535199052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6d861d72a183f50800000000000000
+      internalID: 6861262790618306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f78f46300186490800000000000000
+      internalID: -7752929151753355476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a976c0cf895570800000000000000
+      internalID: 8455947833491169862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3198de8a38b6b030800000000000000
+      internalID: 3510195521226051902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2808afdff6d63e70800000000000000
+      internalID: 9094692891978631213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9315a9029e8640e20800000000000000
+      internalID: 3315890576135180601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc3e6f4082c536b0800000000000000
+      internalID: -5317129928696775479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b1c31397218310800000000000000
+      internalID: 1405448071361443460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28821f899b5838b00800000000000000
+      internalID: 829653788547688578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b48b9c0b5448030800000000000000
+      internalID: 3495995836347206488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544eaf165224a240800000000000000
+      internalID: 4802000855977837658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ffac9b58a6a7f00800000000000000
+      internalID: 1115320980307902331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881bf07cbbb128ae0800000000000000
+      internalID: -1548644828549500536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03151938c26d11090800000000000000
+      internalID: -8065429970969603792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7faf19e379f2c110800000000000000
+      internalID: 1279859520354365309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3927b6fe71193cd0800000000000000
+      internalID: -2578010074690148035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b3cedba30eab60800000000000000
+      internalID: 7759143244717603177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ddff872b376ac90800000000000000
+      internalID: -7158907347287417535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f47831804336f00800000000000000
+      internalID: 1108787142555291415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd4af52ae7aa270800000000000000
+      internalID: 8262555702219038693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ad88bba15082fa0800000000000000
+      internalID: -5825400505630139903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230cee3894f24740800000000000000
+      internalID: 5134935459883647779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab2ae40d667a040800000000000000
+      internalID: 4658805384396585667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e0beba35234470800000000000000
+      internalID: 8377580666076849345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbb74f363a302960800000000000000
+      internalID: 7575118577901485002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_DarkChocolate_Chocolate_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a47006a05164bc40800000000000000
+      internalID: 5527149641700766885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiles_DarkChocolate_Chocolate_3: -5983509443809886871
+      Tiles_DarkChocolate_Chocolate_15: 3315890576135180601
+      Tiles_DarkChocolate_Chocolate_31: 5134935459883647779
+      Tiles_DarkChocolate_Chocolate_33: 8377580666076849345
+      Tiles_DarkChocolate_Chocolate_34: 7575118577901485002
+      Tiles_DarkChocolate_Chocolate_26: 7759143244717603177
+      Tiles_DarkChocolate_Chocolate_32: 4658805384396585667
+      Tiles_DarkChocolate_Chocolate_35: 5527149641700766885
+      Tiles_DarkChocolate_Chocolate_23: -8065429970969603792
+      Tiles_DarkChocolate_Chocolate_18: 829653788547688578
+      Tiles_DarkChocolate_Chocolate_0: -7021753392514587589
+      Tiles_DarkChocolate_Chocolate_13: 3510195521226051902
+      Tiles_DarkChocolate_Chocolate_4: 8399230056144164176
+      Tiles_DarkChocolate_Chocolate_22: -1548644828549500536
+      Tiles_DarkChocolate_Chocolate_27: -7158907347287417535
+      Tiles_DarkChocolate_Chocolate_29: 8262555702219038693
+      Tiles_DarkChocolate_Chocolate_28: 1108787142555291415
+      Tiles_DarkChocolate_Chocolate_5: 2394372582699281214
+      Tiles_DarkChocolate_Chocolate_2: 7482485871888305777
+      Tiles_DarkChocolate_Chocolate_6: 7682555645988837109
+      Tiles_DarkChocolate_Chocolate_7: 4437297218363104172
+      Tiles_DarkChocolate_Chocolate_19: 3495995836347206488
+      Tiles_DarkChocolate_Chocolate_17: 1405448071361443460
+      Tiles_DarkChocolate_Chocolate_11: -7752929151753355476
+      Tiles_DarkChocolate_Chocolate_12: 8455947833491169862
+      Tiles_DarkChocolate_Chocolate_10: 6861262790618306299
+      Tiles_DarkChocolate_Chocolate_24: 1279859520354365309
+      Tiles_DarkChocolate_Chocolate_30: -5825400505630139903
+      Tiles_DarkChocolate_Chocolate_20: 4802000855977837658
+      Tiles_DarkChocolate_Chocolate_21: 1115320980307902331
+      Tiles_DarkChocolate_Chocolate_9: -565397064535199052
+      Tiles_DarkChocolate_Chocolate_25: -2578010074690148035
+      Tiles_DarkChocolate_Chocolate_8: -6664059192845895697
+      Tiles_DarkChocolate_Chocolate_14: 9094692891978631213
+      Tiles_DarkChocolate_Chocolate_16: -5317129928696775479
+      Tiles_DarkChocolate_Chocolate_1: 8850052372270918330
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
