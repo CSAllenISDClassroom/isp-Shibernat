@@ -10,8 +10,11 @@ public class Shine : MonoBehaviour
 
     private bool isMoving;
     private Vector2 input;
+    
 
-//Update is called once per frame
+    private Animator animator;
+
+    //Update is called once per frame
     private void Update()
     {
         if (!isMoving)
@@ -24,6 +27,8 @@ public class Shine : MonoBehaviour
 
             if (input != Vector2.zero)
             {
+              
+
                 var targetPos = transform.position;
                 targetPos.x += input.x;
                 targetPos.y += input.y;
@@ -32,12 +37,14 @@ public class Shine : MonoBehaviour
                 StartCoroutine(Move(targetPos));
             }
         }
+        
         if (Input.GetKeyDown(KeyCode.Z))
             Interact();
     }
 
     void Interact() {
-        var interactPos = transform.position;
+        // var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY"));//
+        var interactPos = transform.position; //+ facingDir//
 
          var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);
     if (collider != null)
