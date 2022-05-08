@@ -31,7 +31,10 @@ public class Fudge : MonoBehaviour
                 dialogBox.SetActive(true);
                 dialogText.text = dialog;
                 pressSpace.SetActive(false);
+
+
             }
+ 
         }
     }
 
