@@ -22,22 +22,24 @@ public class Shine : MonoBehaviour
             input.x = Input.GetAxisRaw("Horizontal");
             input.y = Input.GetAxisRaw("Vertical");
 
-            //remove diagonal movement
+            //Remove diagonal movement
             if (input.x != 0) input.y = 0;
 
             if (input != Vector2.zero)
             {
               
-
+                //Updates new position based on input
                 var targetPos = transform.position;
                 targetPos.x += input.x;
                 targetPos.y += input.y;
 
+                //Determines if the new location is walkable
                 if (isWalkable(targetPos))
                 StartCoroutine(Move(targetPos));
             }
         }
         
+        //Interacts with objects with the key
         if (Input.GetKeyDown(KeyCode.Z))
             Interact();
     }
@@ -59,6 +61,8 @@ public class Shine : MonoBehaviour
 
         while ((targetPos - transform.position).sqrMagnitude > Mathf.Epsilon)
         {
+            //Changes sprite/player position
+            //Takes into account current position, future position, and speed
             transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
             yield return null;
         }
@@ -67,6 +71,8 @@ public class Shine : MonoBehaviour
         isMoving = false;
     }
 
+    //Searches for object type
+    //If object is part of the "solidObjectsLayer" then the player cannot move on it
     private bool isWalkable(Vector3 targetPos)
     {
         if (Physics2D.OverlapCircle(targetPos, 0.3f, solidObjectsLayer | interactableLayer) != null)
