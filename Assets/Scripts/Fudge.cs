@@ -32,7 +32,7 @@ public class Fudge : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter2D(Collider2D collision) {
+    private void OnTriggerEnter2D(Collider2D collision) {
         if (collision.CompareTag("Player"))
         {
             Debug.Log("Player In Range");
@@ -40,7 +40,7 @@ public class Fudge : MonoBehaviour
         }
     }
 
-    void OnTriggerExit2D(Collider2D collision) {
+    private void OnTriggerExit2D(Collider2D collision) {
         if (collision.CompareTag("Player"))
         {
             Debug.Log("Player Left Range");
