@@ -9,6 +9,8 @@ public class Fudge : MonoBehaviour
     public Text dialogText;
     public string dialog;
     public bool playerInRange;
+    public GameObject pressSpace;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +30,7 @@ public class Fudge : MonoBehaviour
             {
                 dialogBox.SetActive(true);
                 dialogText.text = dialog;
+                pressSpace.SetActive(false);
             }
         }
     }
@@ -37,6 +40,7 @@ public class Fudge : MonoBehaviour
         {
             Debug.Log("Player In Range");
             playerInRange = true;
+            pressSpace.SetActive(true);
         }
     }
 
@@ -46,6 +50,7 @@ public class Fudge : MonoBehaviour
             Debug.Log("Player Left Range");
             playerInRange = false;
             dialogBox.SetActive(false);
+            pressSpace.SetActive(false);
         }
     }
 }
