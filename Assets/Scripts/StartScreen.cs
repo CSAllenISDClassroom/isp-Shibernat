@@ -13,6 +13,11 @@ public class StartScreen : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
+    public void MenuGame()
+    {
+        SceneManager.LoadScene(0);
+    }
+
     //Creates option to apply to the "Quit" button
     public void QuitGame()
     {
