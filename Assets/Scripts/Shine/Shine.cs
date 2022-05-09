@@ -14,6 +14,17 @@ public class Shine : MonoBehaviour
 
     private Animator animator;
 
+    Rigidbody2D rb;
+    float inputHorizontal;
+    float inputVertical;
+
+    private void Start()
+    {
+        rb = gameObject.GetComponent<Rigidbody2D>();
+    }
+
+  
+
     //Update is called once per frame
     private void Update()
     {
@@ -36,6 +47,16 @@ public class Shine : MonoBehaviour
                 //Determines if the new location is walkable
                 if (isWalkable(targetPos))
                 StartCoroutine(Move(targetPos));
+            }
+
+            if (input.x > 0)
+            {
+                gameObject.transform.localScale = new Vector3(1, 1, 1);
+            }
+
+            if (input.x < 0)
+            {
+                gameObject.transform.localScale = new Vector3(-1, 1, 1);
             }
         }
         
